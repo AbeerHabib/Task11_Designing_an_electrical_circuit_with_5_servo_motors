@@ -1,3 +1,6 @@
+
+
+
 # Electrical_circuit_with_5_servo_motors
 
 To design an electrical circuit that controls the rotation of 5 servo motors, we need to:
@@ -13,4 +16,4 @@ To design an electrical circuit that controls the rotation of 5 servo motors, we
 This circuit will move the servo motors from a 0° to 90° angle.
 
 
-![arduino](https://user-images.githubusercontent.com/85819577/127754716-847f60c6-e131-47cb-b264-a1cf7cc93d8f.png)
+https://user-images.githubusercontent.com/85819577/127754915-8b17fd5e-1a68-4e01-bc9e-3e5bea458cfe.mp4
