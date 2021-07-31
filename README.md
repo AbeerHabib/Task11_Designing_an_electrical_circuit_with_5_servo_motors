@@ -1,6 +1,6 @@
 # Electronic-_circuit_with_5_servo_motors
 
-To design an electrical circuit that controls the rotation of 5 servo motors, we need to:
+To design an electric circuit that controls the rotation of 5 servo motors, we need to:
 
 1) 5 servo motors
 
@@ -9,8 +9,6 @@ To design an electrical circuit that controls the rotation of 5 servo motors, we
 3) Arduino
 
 4) wires
-
-You have to know that it's necessary to use a transistor to reduce the power.
 
 This circuit will move the servo motors from a 0° to 90° angle.
 
