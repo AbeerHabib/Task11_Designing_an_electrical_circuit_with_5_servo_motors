@@ -1,6 +1,6 @@
-# Electronic-_circuit_with_5_servo_motors
+# Electrical_circuit_with_5_servo_motors
 
-To design an electric circuit that controls the rotation of 5 servo motors, we need to:
+To design an electrical circuit that controls the rotation of 5 servo motors, we need to:
 
 1) 5 servo motors
 
